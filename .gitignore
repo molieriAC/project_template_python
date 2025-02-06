@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# data storage
+data/
+*.csv
+
+# tableau
+*.twb*
+
+# scratch files -- uncomment below after the project has been pulled from the repo
+# scratch*

@@ -1,0 +1,9 @@
+# This is just the bare minimum that I'm comfortable with
+am-ir-functions @ git+https://github.com/udenira/AM_IR_Functions.git@ce3d19a6d4082c283572c2f4d0537e6a4400b805
+icecream==2.1.4
+ipykernel==6.29.5
+numpy==2.0.2
+openpyxl==3.1.5
+oracledb==2.5.1
+pandas==2.2.3
+ruff==0.9.1
